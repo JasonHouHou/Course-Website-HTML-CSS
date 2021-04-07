@@ -1,0 +1,1 @@
+"As a student user, the student must be able to find the lecture note and past exam when clicking on the corresponding link at 'Reading Material' topic on 'Lectures' page."

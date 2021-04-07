@@ -1,0 +1,1 @@
+"As a student user, the student must be able to contact the professor by complete the form and clicking on the 'Send Email' button at the 'Contact' topic on the 'About' page. "

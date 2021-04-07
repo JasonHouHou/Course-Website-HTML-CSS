@@ -1,0 +1,157 @@
+/* -------------------- main css -------------------- */
+
+@media(max-width:825px){
+    .navbar li{
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+}
+@media(max-width:670px){
+    .index-box{
+        flex-direction: column;
+        width: 100%;
+    }
+    .about-bio{
+        flex-direction: column;
+        width: 100%;
+    }
+    .header-container{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0px;
+    }
+}
+
+body{
+    background-color: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #172629d7;
+    font-style: normal;
+    line-height: normal;
+    margin: 0;
+}
+
+a{
+    color: #172629d7;
+    text-decoration: underline;
+}
+a:hover{
+    color: rgb(96, 173, 245);
+}
+a:active{
+    color:rgb(61, 184, 61);
+}
+
+header{
+    background-color: #5bbeab;
+    color: white;
+    box-sizing: border-box;
+}
+header a{
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+}
+header a:hover{
+    color: white;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 30px;
+    box-sizing: border-box;
+}
+.header-container h1{
+    justify-content: space-between;
+    align-self: center;
+    box-sizing: border-box;
+}
+.searchBar{
+    justify-content: space-between;
+    align-self: center;
+    box-sizing: border-box;
+}
+.searchBar input{
+    background-color: #ffffff;
+    padding: 6px;
+    border-radius: 20px;
+    border: green solid 2px;
+}
+
+.searchBar input:active, .searchBar input:hover{
+    border: lightgreen solid 2px;
+}
+
+footer{
+    text-align: center;
+    font-size: small;
+}
+
+.general{
+    margin: auto;
+    width: 85%;
+    overflow: hidden;
+}
+
+.navbar{
+    background-color: rgba(0, 128, 64, 0.404);
+    color: white;
+    margin: 0;
+    padding: 3px 0px;
+}
+.navbar ul{
+    list-style-type: none;
+    text-align: left;
+    padding: 0;
+}
+
+.navbar li{
+    display: inline;
+    margin-top: 10px;
+    padding: 15px 3px;
+    border: 2px rgb(155 194 168) solid;
+    border-radius: 20px;
+    margin: 10px 20px 0px 0px;
+    box-sizing: border-box;
+}
+.navbar a{
+    color: white;
+    margin-top: 10px;
+    padding: 15px 3px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.navbar li:hover{
+    border: white 2px solid;
+    border-radius: 20px;
+}
+.nav-tab{
+    background-color: lightblue;
+    border: rgba(255, 255, 255, 0.733) 2px solid;
+    border-radius: 20px;
+}
+.button, .searchButton{
+    background-color: lightblue;
+    border: white 2px solid;
+    border-radius: 15px;
+    padding: 10px;
+    color: rgba(17, 17, 17, 0.842);
+}
+.button:hover, .searchButton:hover{
+    background-color: #5bbeaa;
+}
+.button:active, .searchButton:active{
+    background-color: #9ec4ab;
+}
+.searchButton{
+    background-image: url("../images/search.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.searchButton:hover{
+    background-image: url("../images/search_1.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}

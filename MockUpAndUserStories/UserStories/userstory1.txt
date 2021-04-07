@@ -1,0 +1,1 @@
+"As a student user, when I click on the About's page on the CSCB63 website, I can see the introduction of the course team which contain all the information of professor and TA"

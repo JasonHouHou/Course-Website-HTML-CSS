@@ -1,0 +1,1 @@
+"As a student user, the student must be able to find the tutorial handout and its solution when clicking on the corresponding link at 'Tutorial Handout' topic on 'Tutorial' page."

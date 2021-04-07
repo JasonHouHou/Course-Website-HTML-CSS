@@ -1,0 +1,10 @@
+
+@import "main.css";
+
+/* -------------------- announcement css -------------------- */
+.ann-ul{
+    list-style-type: square;
+}
+.ann-nestedli{
+    list-style: url("../images/red_star.png");
+}

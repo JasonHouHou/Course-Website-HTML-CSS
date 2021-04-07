@@ -1,0 +1,71 @@
+@import "main.css";
+
+/* -------------------- about css --------------------*/
+
+.about-bio {
+    display: flex;
+}
+
+.about-pic {
+    order: 1;
+    padding: 10px;
+}
+
+.about-pic img {
+    border: rgb(124, 215, 221) 3px solid;
+    border-radius: 15px;
+    float: center;
+}
+
+.about-bioText {
+    order: 2;
+    padding: 10px;
+}
+
+.about-form {
+    display: left;
+}
+
+.about-form input, textarea {
+    padding: 5px;
+    font-size: 15px;
+    width: 50%;
+}
+
+.about-form textarea {
+    width: 50%;
+    height: 200px;
+}
+
+.about-team-ta{
+    width: 85%;
+}
+.ta {
+    padding: 10px;
+    border: 1px;
+}
+
+.ta img {
+    border: rgb(124, 215, 221) 3px solid;
+    border-radius: 15px;
+    width: 100px;
+    height: 125x;
+}
+
+.ta_bio {
+    width: 50%;
+}
+
+#ta1{
+    display: inline-block;
+}
+
+#ta2{
+    display: inline-block;
+}
+
+#ta3{
+    display: inline-block;
+}
+
+

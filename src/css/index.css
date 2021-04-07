@@ -1,0 +1,24 @@
+@import "main.css";
+
+/* -------------------- index css -------------------- */
+.index-coolBackground{
+    background-image: url(../images/background.jpg);
+    background-position: center;
+    min-height: 250px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
+.index-coolBackground h1{
+    margin-top: 40px;
+    font-size: 45px;
+    
+}
+.index-box{
+    display: flex;
+}
+.index-exclusion, .index-prerequisite{
+    display: inline-block;
+    width: 50%;
+    box-sizing: border-box;
+}

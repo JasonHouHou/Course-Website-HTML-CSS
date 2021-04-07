@@ -1,0 +1,74 @@
+@import "main.css";
+
+/* -------------------- lectures css --------------------*/
+
+.lecture_general{
+    margin: auto;
+    width: 85%;
+    overflow: hidden;
+}
+
+.lecture_general h1{
+    text-decoration: underline;
+
+}
+
+.table_position{
+    position: relative;
+    left: 100;
+}
+
+
+
+.lecture_reading{
+    margin: auto;
+    width: 85%;
+    overflow: hidden;
+    border: rgb(104, 204, 179);
+}
+
+.lecture_reading h1{
+    text-decoration: underline;
+}
+
+
+.index-box{
+  display: flex;
+}
+.index-exclusion, .index-prerequisite{
+  display: inline-block;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+
+
+/* -------------------- for table css --------------------*/
+ .table {
+    display: table;
+    border: 1px solid #40A1F5;
+ }
+ .table .th {
+    display: table-row;
+    background-color: rgb(104, 204, 179);;
+    color: #fff;
+    font-weight: bold;
+ }
+ .table .tr:nth-child(odd) {
+  background-color: #F9F9F9;
+ }
+ .table .tr{
+   display: table-row;
+   border-bottom: 1px solid #000;
+ }
+ .table .td {
+   display: table-cell;
+   padding: 15px;
+   border-bottom: 1px solid #40A1F5;
+ }
+ .table .tr:last-child .td{
+   border: 0;
+ }
+ .clear {
+   clear: both;
+ }

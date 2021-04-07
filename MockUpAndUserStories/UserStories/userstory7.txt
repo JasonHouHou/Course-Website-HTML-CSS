@@ -1,0 +1,1 @@
+"As a student user, the student must be able to see the arrangement of this lecture at 'Lecture Arrangement' topic on 'Lectures' page "

@@ -1,0 +1,1 @@
+"As a student user, the student must be able to send Anonymous Feedback by complete the form and clicking on the 'Send feedback' button at the 'Anonymous Feedback' topic on the 'About' page. "
