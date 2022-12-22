@@ -4,7 +4,7 @@
 Features include:
 <ul>
   <li>Displying the lastest announcement made by the professor</li>
-  <li>Displaying the lecture notes and Tutrual materials</li>
+  <li>Displaying the lecture notes and Tuturials materials</li>
 </ul>
 </p>
 <H3> Mandatory disclaimer: You may not submit any portion of this code as your own assignment. Doing so will net you an academic offense and a lot of sadness.</H3>
