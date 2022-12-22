@@ -7,3 +7,4 @@ Features include:
   <li>Displaying the lecture notes and Tutrual materials</li>
 </ul>
 </p>
+<H3> Mandatory disclaimer: You may not submit any portion of this code as your own assignment. Doing so will net you an academic offense and a lot of sadness.</H3>
